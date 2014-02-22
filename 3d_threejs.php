@@ -131,6 +131,9 @@ function metabox_model3d_function()  {
 			</tr>
 	    </table>
 	</div>
+	<a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=oscar%40sorcode%2ecom&lc=US&item_name=Develoteca&item_number=2014&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest">
+<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+</a>
 	<hr>
 	 <div id="render"></div>
 	<?php 

@@ -1,0 +1,30 @@
+.button_dvds{ 
+cursor:pointer;
+   font-family: 'Arial'; 
+    font-size: 10px; 
+    font-weight: normal; 
+    font-style: normal; 
+    text-decoration: none; 
+	float:left;
+    padding: 2px; 
+    text-align: center; 
+    color: #000000; 
+    width: 45px; 
+	height: 58px;
+    text-decoration: none; 
+    background: #ffffff; 
+    background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 100%);; 
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f6f6f6));; 
+    background: -webkit-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);; 
+    background: -o-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);; 
+    background: -ms-linear-gradient(top, #ffffff 0%,#f6f6f6 100%);; 
+    background: linear-gradient(to bottom, #ffffff 0%,#f6f6f6 100%);; 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff',  endColorstr='#f6f6f6', GradientType=0 );; 
+    border-width: 2px; 
+    border-style: solid; 
+    border-color: #dcdcdc; 
+    border-radius: 6px; 
+} 
+#render{
+ text-align: center;
+}
